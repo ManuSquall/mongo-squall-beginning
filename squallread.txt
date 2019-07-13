@@ -1,0 +1,4 @@
+le module body parser servira à parser du json entre le client et le serveur 
+le module express servira pour le "routing"
+le module mongodb nous fournira des pilotes mongodb, nous aidant à nous connecter à notre database
+le module path nous permettra de servir un fichier html static à l'utilisateur
